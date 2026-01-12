@@ -17,9 +17,7 @@ public class CloudVendor {
         this.vendorPhoneNumber = vendorPhoneNumber;
     }
 
-    public String getVendorId() {
-        return vendorId;
-    }
+    public String getVendorId() { return vendorId; }
 
     public void setVendorId(String vendorId) {
         this.vendorId = vendorId;
